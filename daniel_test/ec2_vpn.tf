@@ -1,4 +1,4 @@
-resource "aws_instance" "ubuntu-santi-server" {
+resource "aws_instance" "ubuntu-daniel-server" {
   ami                         = "ami-0af6e9042ea5a4e3e"
   instance_type               = "t2.small"
   key_name                    = aws_key_pair.santi-key.key_name
