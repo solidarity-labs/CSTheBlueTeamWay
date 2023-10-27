@@ -1,0 +1,7 @@
+resource "aws_key_pair" "santi-key" {
+  key_name   = "santi-key"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCT7dcv5k8vpQl25w4swXdUD0FfuAp994PBuAqkt7sOlH4PWcYgxzQwfKCEAsPEOUUNV1ZV860/9Z6zxl3VheMmhE/3SB+CX763/w7iYQ1dVtPzBPdvoZ2raWSz84IEEdw2msSwXAcljVdubWrgkJACRZwGOuBQrz5BOb8zkC6DG9Egef5nWWmK8uasage3zb6ZDY7uBcE4j/1Q69rU9edI1EAgpPNQO/gNgGtJDFPP6wq45o26IzeahuAyaHqFjcMB8bBgZpdDIYtndCdwEI3zBfhqS/JGsf0oUYx2wmgguc8ads8s8p6PwrkAKiZRqxdJL/iORuwOxH9iAEfAwr+SqGrXxMv45ykC91d0SO+JjVo2wepbIbLHhqRg/D8tGTXtBYdgXWDp5lFkFGm8hFe+XeJDfYBSWiuizP0SZO87nlYUYz/bfHdWSrouQ5fTyUQ4ZmSbDaET/e9+yK/lROj9T+ElrqqjWSLKSAIoiB+C2jmpaZtkoHdWGCE2D/sTcHs= sabastante@LAPTOP-0GAHKBQG"
+}
+
+
+
